@@ -1,2 +1,6 @@
 # PacmanMDP
 A Markov Decision Process to guide pacman 
+
+Project written entirely in Python 2.7
+
+See report for detailed decription of the MDP agent which is in the file mdpAgents.py
